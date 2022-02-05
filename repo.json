@@ -23,5 +23,29 @@
     "DownloadLinkInstall": "https://github.com/NadyaNayme/NoEmoteWalls/releases/download/0.0.0.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/NadyaNayme/NoEmoteWalls/releases/download/0.0.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NadyaNayme/NoEmoteWalls/releases/download/0.0.0.4/latest.zip"
+  },
+  {
+    "Author": "Nana",
+    "Name": "SystemFree",
+    "Punchline": "Filter out most System Messages. (EN Only)",
+    "Description": "Filter out most System Messages. (EN Only)",
+    "InternalName": "SystemFree",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/NadyaNayme/SystemFree",
+    "ApplicableVersion": "any",
+    "Tags": [
+     "Chat",
+     "Filter",
+     "Spam"
+    ],
+    "DalamudApiLevel": 5,
+    "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/SystemFree/master/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1644104400,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/NadyaNayme/SystemFree/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NadyaNayme/SystemFree/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NadyaNayme/SystemFree/releases/download/0.0.0.1/latest.zip"
   }
 ]
