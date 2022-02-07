@@ -2,8 +2,8 @@
   {
     "Author": "Nana",
     "Name": "NoEmoteWalls",
-    "Punchline": "Filter out emote spam. Except your emote spam. Your emote spam is special.",
-    "Description": "Filters out emote chat messages caused by other players unless the player is targeting you. Works for EN only.",
+    "Punchline": "This plugin has been deprecated in favor of Tidy Chat. Please uninstall and use Tidy Chat.",
+    "Description": "This plugin has been deprecated in favor of Tidy Chat. Please uninstall and use Tidy Chat.",
     "InternalName": "NoEmoteWalls",
     "AssemblyVersion": "0.0.0.4",
     "RepoUrl": "https://github.com/NadyaNayme/NoEmoteWalls",
@@ -27,8 +27,8 @@
   {
     "Author": "Nana",
     "Name": "SystemFree",
-    "Punchline": "Filter out most System Messages. (EN Only)",
-    "Description": "Filter out most System Messages. (EN Only)",
+    "Punchline": "This plugin has been deprecated in favor of Tidy Chat. Please uninstall and use Tidy Chat.",
+    "Description": "This plugin has been deprecated in favor of Tidy Chat. Please uninstall and use Tidy Chat.",
     "InternalName": "SystemFree",
     "AssemblyVersion": "0.0.1.1",
     "RepoUrl": "https://github.com/NadyaNayme/SystemFree",
@@ -47,5 +47,30 @@
     "DownloadLinkInstall": "https://github.com/NadyaNayme/SystemFree/releases/download/0.0.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/NadyaNayme/SystemFree/releases/download/0.0.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NadyaNayme/SystemFree/releases/download/0.0.1.1/latest.zip"
+  },
+  {
+    "Author": "Nana",
+    "Name": "Tidy Chat",
+    "Punchline": "Various chat filters for a less cluttered chat (EN Only)",
+    "Description": "Various chat filters for a less cluttered chat (EN Only)",
+    "InternalName": "TidyChat",
+    "AssemblyVersion": "0.0.2.0",
+    "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
+    "ApplicableVersion": "any",
+    "Tags": [
+     "Chat",
+     "Filter",
+     "Emote",
+     "Spam"
+    ],
+    "DalamudApiLevel": 5,
+    "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/TidyChat/master/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1644104400,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.0/latest.zip"
   }
 ]
