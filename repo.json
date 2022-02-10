@@ -54,7 +54,7 @@
     "Punchline": "Keep your chat tidy.(EN Only)",
     "Description": "Various chat filters for a less cluttered chat (EN Only)",
     "InternalName": "TidyChat",
-    "AssemblyVersion": "0.0.2.3",
+    "AssemblyVersion": "0.0.2.8",
     "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
     "ApplicableVersion": "any",
     "Tags": [
@@ -69,8 +69,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1644104400,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.3/latest.zip"
+    "DownloadLinkInstall": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NadyaNayme/TidyChat/releases/download/0.0.2.8/latest.zip"
   }
 ]
